@@ -5,7 +5,7 @@ import RecentCard from "./RecentCard";
 function Recent() {
   return (
     <div>
-      <section className="recent padding">
+      <section className="recent rpadding">
         <div className="container">
           <Heading
             title="Recent Property Listed"
